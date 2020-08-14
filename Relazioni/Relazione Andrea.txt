@@ -1,0 +1,15 @@
+concezione: 4
+
+programmazione: 30
+debug: 9
+imparare QT: 9
+testing: 3 
+
+
+REQUISITI:
+-	indicare dove faccio chiamate polimorfe da gui e da modello
+-	indicare come compilare il progetto (usare il file progetto.pro che gli do)
+-	descrizione gerarchia
+-	ore che ci ho messo
+-	sezione “Suddivisione del lavoro progettuale” con nome cognome matricola d idavide
+-	Nome della relazione : relazione.pdf, indico il SO, versione qt e compilatore che ho usato per fare il progetto
